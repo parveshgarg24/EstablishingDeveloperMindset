@@ -12,10 +12,9 @@ In Establishing a Web Developer Mindset, you'll learn about the history of the l
 
 Now that you’ve learned about the history of Front End Development, and where you stand in that evolving story, I want you to reflect on what your journey will be like as you develop your skills. You’ve heard from us about how our experience has been as web developers, but now you should read more from others about their problem solving strategies. Go ahead and read the following:
 
-* [How To Navigate the Up and Downs Of Learning To Code](http://www.codeconquest.com/blog/how-to-navigate-the-up-and-downs-of-learning-to-code/) 
-* [My First Month Coding: An Emotional Roller Coaster](https://www.thinkful.com/blog/my-first-month-coding-an-emotional-roller-coaster/) 
-* Optional: [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
-
+* [How To Navigate the Up and Downs Of Learning To Code](http://www.codeconquest.com/blog/how-to-navigate-the-up-and-downs-of-learning-to-code/){:target="_blank"}
+* [My First Month Coding: An Emotional Roller Coaster](https://www.thinkful.com/blog/my-first-month-coding-an-emotional-roller-coaster/){:target="_blank"}
+* Optional: [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard){:target="_blank"}
 Once you’ve read these, you’ll know all about the path ahead of you, and you’ll have even more tools to help you solve problems and grow your Developer Mindset.
 
 On the project submission page, you’ll do the following for your first
@@ -28,11 +27,6 @@ project:
    1. Optional: In addition to your goals, we also want to know about any questions you have about the process of becoming a Front End Developer. Is there anything about being a Front-End Developer that you’d like to know more about?
 
 
-## Project Review 
-
-Your reflection project will be reviewed by our Udacity project reviewers, who are all working developers. They are real humans who have faced the same challenges you will, so they’ll be able to offer up some insights that may help you as you embark on these goals! Make sure to take some time to really think about these reflections. Many of these developers have had the same questions and concerns as you, and they want to hear what you have to say! Reviewers will use a rubric to evaluate each project you submit. Rubrics are specific to each project.
-
-
 ## Project Rubric 
 
 CRITERIA 		|	MEETS SPECIFICATIONS 
@@ -41,4 +35,3 @@ File Submitted 	|	The submitted project contains a single file with your goals &
 Reflections 	|	The file includes a reflection on your goals as a
 developer.
 Letter to Self	|	The submission file includes a letter to your future self, describing how you will solve problems, the skills you have that will help you tackle challenges, and how a 'growth mindset' will help you reach your goals on the other side of any challenge.
-
