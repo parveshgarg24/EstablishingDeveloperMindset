@@ -12,9 +12,9 @@ In Establishing a Web Developer Mindset, you'll learn about the history of the l
 
 Now that you’ve learned about the history of Front End Development, and where you stand in that evolving story, I want you to reflect on what your journey will be like as you develop your skills. You’ve heard from us about how our experience has been as web developers, but now you should read more from others about their problem solving strategies. Go ahead and read the following:
 
-* [How To Navigate the Up and Downs Of Learning To Code](http://www.codeconquest.com/blog/how-to-navigate-the-up-and-downs-of-learning-to-code/){:target="_blank"}
+* [How To Navigate the Up and Downs Of Learning To Code](http://www.codeconquest.com/blog/how-to-navigate-the-up-and-downs-of-learning-to-code/) {:target="_blank"}
 
-* [My First Month Coding: An Emotional Roller Coaster](https://www.thinkful.com/blog/my-first-month-coding-an-emotional-roller-coaster/){:target="_blank"}
+* [My First Month Coding: An Emotional Roller Coaster](https://www.thinkful.com/blog/my-first-month-coding-an-emotional-roller-coaster/ target="_blank"){:target="_blank"}
 
 * Optional: [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard){:target="_blank"}
 
